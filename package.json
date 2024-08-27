@@ -1,0 +1,19 @@
+{
+  "name": "flood",
+  "version": "1.0.0",
+  "description": "flood earthsd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chendingwei364/flood.git"
+  },
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chendingwei364/flood/issues"
+  },
+  "homepage": "https://github.com/chendingwei364/flood#readme"
+}
